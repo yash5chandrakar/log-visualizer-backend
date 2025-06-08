@@ -13,4 +13,5 @@ Perfect for developers, system admins, and DevOps engineers aiming to troublesho
 # How to get started
 
 1. Install Dependencies using "npm i".
-2. Run "npm start" and enjoy.
+2. Add an .env file with PORT & MONGO_URI
+3. Run "npm start" and enjoy.
